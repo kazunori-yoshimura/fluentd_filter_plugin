@@ -1,0 +1,11 @@
+bot
+Y!J-SRD
+Y!J-DSC
+Y!J-BSC
+baidu
+
+Hatena
+NAGIOS
+JMETER
+crawler
+curl
